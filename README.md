@@ -1,6 +1,6 @@
 # lang Smart Contract Documentation
 
-Welcome to the documentation for the MyCoding smart contract. This contract, written in the cadence programming language and designed for the Flow Playground, enables the storage and retrieval of information about programming languages associated with specific user accounts on the blockchain.
+Welcome to the documentation for the lang smart contract. This contract, written in the cadence programming language and designed for the Flow Playground, enables the storage and retrieval of information about programming languages associated with specific user accounts on the blockchain.
 
 ## Overview
 
